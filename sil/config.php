@@ -1,8 +1,8 @@
 <?php
-$servidor = 'localhost';
+$servidor = '97.74.31.5';
 $bd = 'fenedif2';
 $usuario_mysql = 'fenedif2';
-$clave_mysql = 'fenedif2';
+$clave_mysql = 'kJwyArt#35gSned';
 $administrador = '7777777';
 $nombre_centro = 'Universidad Tecnológica "Indoamérica"';
 $dir_centro = 'Ambato';
